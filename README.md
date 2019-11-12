@@ -1,3 +1,3 @@
-# remote_kaodashikannbann
+# remote_kaodashipanel
 遠隔地の人物に顔出し看板のようなことができる(学部のころの研究の一部)
 ローカル環境でpythonとopencvとdlibの実行環境を作って使った。
